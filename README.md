@@ -1,1 +1,1 @@
-# Google-Maps-ETA-with-GNN
+# ETA Prediction with Graph Neural Netowrks in Google Maps
